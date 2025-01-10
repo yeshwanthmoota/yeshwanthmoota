@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yeshwanth Mootakoduru
 
-I'm a student at UNC Charlotte, pursuing a master's in Cybersecurity, with a passion for machine learning, cybersecurity, and game development. I enjoy solving real-world problems through technology and am always eager to learn and grow.
+I'm a student at UNC Charlotte, pursuing a master's in Cybersecurity, with a passion for Cybersecurity, DevOps and Game Development. I enjoy solving real-world problems through technology and am always eager to learn and grow.
 
 ## 🔭 Current Focus
 - Developing skills in **Cybersecurity**, particularly **network security** and **cloud security (AWS)**.
